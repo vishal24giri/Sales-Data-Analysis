@@ -8,7 +8,7 @@ The projects focus on:
 -Evaluating employee performance to boost productivity, \
 -Understanding product sales and category performance to optimize inventory and marketing strategies, \
 -Analyzing sales growth to identify trends, monitor company progress, and make more accurate forecasts, \
--And evaluating customer purchase behavior to target high-value customers with promotional incentives. \
+-And evaluating customer purchase behavior to target high-value customers with promotional incentives. 
 
 _Database schema_
 ![image](https://github.com/user-attachments/assets/4f0bbea4-31bc-4c48-b5f6-9dc50cd5ae7e)
@@ -30,7 +30,7 @@ Now we need to add a new server in pgAdmin:
 
 Hostname: db \
 Username: postgres \
-Password: postgres \
+Password: postgres 
 
 To stop the server that was launched by docker-compose up via Cntl+C, then remove the containers via:
 > docker-compose down
