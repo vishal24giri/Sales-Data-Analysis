@@ -23,7 +23,7 @@ Now download docker-compose.yaml file and northwind sql file in a folder and ope
 
 Now type below code in the terminal :
 ```sh
-> docker-compose up
+docker-compose up
 ```
 Now connect to pgAdmin at http://localhost:5050
 
@@ -35,7 +35,7 @@ Password: postgres
 
 To stop the server that was launched by docker-compose up via Cntl+C, then remove the containers via:
 ```sh
-> docker-compose down
+docker-compose down
 ```
 
 
