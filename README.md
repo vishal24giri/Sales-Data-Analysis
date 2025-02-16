@@ -17,7 +17,7 @@ _Database schema_
 
 ### Here I'm using docker and docker compose to setup our database
 
-Make sure both are install are installed on your computer
+Make sure both are installed on your computer
 
 Now download docker-compose.yaml file and northwind sql file in a folder and open termial in that folder.
 
